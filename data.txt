@@ -1,2 +1,0 @@
-TemperatureMeasurement 2026.02.25 "Krasnoyarsk" 13.0
-TemperatureMeasurement 2026.01.01 "Abakan" -21.0
